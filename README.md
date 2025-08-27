@@ -56,6 +56,6 @@
     <button>⚡ Nhạy max</button>
     <button>🚀 Nhẹ max</button>
   </div>
-  <footer>© 2025 Menu Hỗ Trợ Free Fire | Chỉ mang tính giải trí</footer>
+  <footer>2025 Menu Hỗ Trợ Free Fire</footer>
 </body>
 </html>
